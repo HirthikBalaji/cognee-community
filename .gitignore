@@ -27,3 +27,8 @@ cognee_graph.pkl
 .data_storage
 *.log.DS_Store
 .DS_Store
+
+# Auto-added safety ignores
+*.pem
+*.key
+.env.local
